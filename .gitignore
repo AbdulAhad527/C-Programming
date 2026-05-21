@@ -1,4 +1,15 @@
+<<<<<<< HEAD
 *
 !*/
 !.gitignore
 !*.c
+=======
+# Ignore the massive audio folder
+sound/
+
+# Ignore compiled executables and object files
+*.exe
+*.o
+*.layout
+gmon.out
+>>>>>>> 36f26e649f2123502713a0c9688a261a9ee6b404
