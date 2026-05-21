@@ -1,0 +1,8 @@
+# Ignore the massive audio folder
+sound/
+
+# Ignore compiled executables and object files
+*.exe
+*.o
+*.layout
+gmon.out
