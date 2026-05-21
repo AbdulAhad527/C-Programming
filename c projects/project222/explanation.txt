@@ -1,0 +1,1 @@
+The project222 is made to understand datastructure and how c language can be used to interact with sound effects and multimedia basically in this project user is ask to enter the month and namaz name on the basis of which its approx time is calculated.
